@@ -1,0 +1,27 @@
+.index{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.btn{
+    margin-right: 1rem !important;
+}
+.col-md-4{
+    display: flex;
+    flex-direction: column;
+    text-align: initial;
+}
+
+.row{
+    padding: 2rem
+}
+.row-4{
+    display: flex;
+    justify-content: center;
+}
+
+label{
+    text-shadow: 0 0 black;
+}

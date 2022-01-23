@@ -1,0 +1,13 @@
+.container{
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.react-responsive-modal-modal{
+    border-radius: 1cm;
+}
